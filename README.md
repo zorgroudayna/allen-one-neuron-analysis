@@ -31,13 +31,13 @@ The neuron’s activity during drifting gratings stimulus is visualized and anal
 
 ## Results  
 Plots saved in the `results/` folder:  
-- `neuron_<cell_id>_calcium_activity.png` — full session calcium trace
+- Full session calcium trace
   <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/456b4f2a-296f-4623-a2d5-284cf291b9f0" />
  
-- `neuron_<cell_id>_trial_responses.png` — all trials aligned to stimulus
+- All trials aligned to stimulus
   <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/2c300626-0585-4a26-a4f0-c8d67dcb184e" />
 
-- `neuron_<cell_id>_avg_response.png` — average response ± standard deviation
+- Average response ± standard deviation
   <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/b9d7bb8a-dfb8-4962-b275-ffcbc31261b7" />
 
 
