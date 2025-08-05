@@ -25,8 +25,7 @@ The neuron’s activity during drifting gratings stimulus is visualized and anal
 - Save all plots in a `results/` folder.
 
 ## Usage  
-- Run the Jupyter notebook to reproduce the analysis.  
-- Install required packages listed in `requirements.txt`.  
+- Run the Jupyter notebook to reproduce the analysis.   
 - The Allen Brain Observatory dataset is stored locally on a disk and accessed directly.
 
 ## Results  
