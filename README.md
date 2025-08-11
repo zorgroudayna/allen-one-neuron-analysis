@@ -22,7 +22,6 @@ The neuron’s activity during drifting gratings stimulus is visualized and anal
 - Plot the full calcium activity trace.  
 - Align neuron activity to stimulus start times and plot individual trial responses.  
 - Compute and plot the average response with variability shading.  
-- Save all plots in a `results/` folder.
 
 ## Usage  
 - Run the Jupyter notebook to reproduce the analysis.   
